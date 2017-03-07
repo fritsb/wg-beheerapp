@@ -1,0 +1,26 @@
+Node toevoegen
+1) AddNode
+2) mkdir;
+benodigdheden; dir van mrtg (/var/www/mrtg)
+3) make cfg en plaatsen in dir cfg's
+benodigdheden;
+dir van cfg's mrtg
+template van cfg-bestand
+4) check main cfg
+4.a) create maincfg
+4.b) update maincfg
+benodgidheden:
+dir van cfg's mrtg
+template van main cfg-bestand
+template van stukje dat erbij geplaatst moet worden
+
+Node bewerken
+1) maincfg aanpassen, stukje tekst mbt node evt. aanpassen (indien IP anders) (stukje template voor nodig)
+2) cfg evt. bewerken (stuk template voor nodig)
+3) EditNode
+
+Node verwijderen
+1) maincfg aanpassen, stukje tekst mbt node verwijderen (stukje template voor nodig)
+2) cfg verwijderen
+3) evt. map verwijderen (indien aangegeven)
+4) DelNode
